@@ -1,6 +1,4 @@
-
-
-[![Portrait Github](./img//portada_github.png)](https://twitter.com/JuanCar39938228)
+[![Portrait Github](./img/header.png)](https://juancarlosechevarria.netlify.app/)
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JuanCar39938228?style=social)](https://twitter.com/JuanCar39938228)
