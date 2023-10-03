@@ -17,8 +17,8 @@
 [![twitter](./img/twitter-dark.svg)](https://twitter.com/JuanCar39938228#gh-dark-mode-only)
 [![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/juancarlosechevarria/#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/juancarlosechevarria/#gh-dark-mode-only)
-[![dev.to](./img/dev-light.svg)](https://juancarlosechevarria.netlify.app)
-[![dev.to](./img/dev-dark.svg)](https://juancarlosechevarria.netlify.app)
+[![dev.to](./img/dev-light.svg)](https://juancarlosechevarria.netlify.app#gh-light-mode-only)
+[![dev.to](./img/dev-dark.svg)](https://juancarlosechevarria.netlify.app#gh-dark-mode-only)
 
 
 ## 🖥 Skills
